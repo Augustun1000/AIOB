@@ -1,4 +1,4 @@
-# AIO
+# AIOB
 This is My Custom Archlinux Installation With Openbox for my friend
 where I use these bash scripts added to archinstall desktop minimal.
 
