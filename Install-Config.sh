@@ -5,6 +5,6 @@
 xdg-user-dirs-update &&
 cp -r /etc/xdg/openbox/  .config/ &&
 7z x .config.7z -aoa &&
-mv /home/tolaba/Fondo 1.jpeg /home/tolaba/Downloads &&
+mv /home/tolaba/wallpaper.png /home/tolaba/Downloads &&
 startx
 tint2
